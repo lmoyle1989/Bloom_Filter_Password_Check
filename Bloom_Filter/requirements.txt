@@ -1,0 +1,2 @@
+bitarray==2.3.4
+pycryptodome==3.11.0
